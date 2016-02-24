@@ -17,7 +17,6 @@ class Test2 implements Runnable{
 				try {
 					Thread.sleep(2);
 				} catch (InterruptedException e) {
-					// TODO Auto-generated catch block
 					e.printStackTrace();
 				}
 				synchronized (MyLock2.locka) {

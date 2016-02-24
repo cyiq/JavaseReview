@@ -1,6 +1,5 @@
 package cyiq.oop;
 /**
- * 成员变量和成员方法的继承
  * @author CYIQ
  */
 class Father{
